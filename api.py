@@ -175,7 +175,7 @@ def check2():
     # enable=get_Data.get('enable')
     # 对参数进行操作
 
-    #print('Program now starts on %s' % startTime)
+    print('Program now starts on %s' % startTime)
     #Sprint('Executing...')
 
     return_dict['statu'] = tt1()
